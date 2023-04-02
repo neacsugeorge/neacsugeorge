@@ -1,4 +1,4 @@
-### Hi there 👋
+[![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=neacsugeorge&count_private=true&theme=radical&show_icons=true)](https://github.com/neacsugeorge)
 
 <!--
 **neacsugeorge/neacsugeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

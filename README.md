@@ -20,8 +20,10 @@ Some of my daily friends are listed below:
 
 ## 💡 Let's connect and build something incredible!
 
-<a href="https://www.linkedin.com/in/neacsugeorge/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0072b1" /></a>
-<a href="mailto:george@neacsugeorge.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/neacsugeorge/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0072b1" /></a>
+    <a href="mailto:george@neacsugeorge.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+</p>
 
 <!--
 **neacsugeorge/neacsugeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

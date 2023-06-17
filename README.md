@@ -6,11 +6,22 @@
 
 👔 **Full-Stack Developer** with 7+ years of experience in web and mobile application development. Experienced in **React**, **React Native**, **Node.js**, and **Firebase**. Eager about exploring new technologies and continuously learning innovative ways to implement solutions for complex challenges.
 
---- 
-Let's connect and build something incredible!
+## 🛠 Tech stack
+Some of my daily friends are listed below:
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,scss" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,vscode,k8s,docker,babel,vite,webpack" />
+</p>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cloudflare,firebase,gcp,vercel" />
+</p>
+
+## 💡 Let's connect and build something incredible!
 
 <a href="https://www.linkedin.com/in/neacsugeorge/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0072b1" /></a>
-<a href="mailto:george@neacsugeorge.com"><img style="background-color: #EA4335;border-radius: 4px" height="32" width="32" src="https://cdn.jsdelivr.net/npm/@material-design-icons/svg@0.14.9/outlined/email.svg" /></a>
+<a href="mailto:george@neacsugeorge.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
 
 <!--
 **neacsugeorge/neacsugeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

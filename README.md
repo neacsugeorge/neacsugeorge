@@ -1,13 +1,10 @@
 
 ## 👋 Hello there!
-😁 I'm George, a curious living being in love with seeing software come alive after pushing those latest commits.
 
-*Ahem* Now, let's get down to business:
-
-👔 **Full-Stack Developer** with 7+ years of experience in web and mobile application development. Experienced in **React**, **React Native**, **Node.js**, and **Firebase**. Eager about exploring new technologies and continuously learning innovative ways to implement solutions for complex challenges.
+👔 Devoted **Full-Stack Developer** with 7+ years of hands-on experience in **Front-End Development**, **Back-End Development** and **Mobile Development** with a willingness to learn and master DevOps and Infrastructure as a Service. **React**, **TypeScript** and **Firebase** specialist.
 
 ## 🛠 Tech stack
-Some of my daily friends are listed below:
+Adaptable to utilizing a wide spectrum of technologies, including:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,scss" />
 </p>

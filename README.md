@@ -1,7 +1,7 @@
 
 ## 👋 Hello there!
 
-👔 Devoted **Full-Stack Developer** with 7+ years of hands-on experience in **Front-End Development**, **Back-End Development** and **Mobile Development** with a willingness to learn and master DevOps and Infrastructure as a Service. **React**, **TypeScript** and **Firebase** specialist.
+👔 Devoted **Full-Stack Developer** with 10 years of hands-on experience in **Front-End Development**, **Back-End Development** and **Mobile Development** with a willingness to learn and master DevOps and Infrastructure as a Service. **React**, **TypeScript** and **Firebase** specialist.
 
 ## 🛠 Tech stack
 Adaptable to utilizing a wide spectrum of technologies, including:
